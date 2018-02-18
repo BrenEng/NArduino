@@ -35,3 +35,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
